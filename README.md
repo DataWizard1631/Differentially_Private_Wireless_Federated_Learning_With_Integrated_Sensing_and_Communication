@@ -2,7 +2,7 @@
 
 
 ### Statement of Purpose
-This work is a reproduction and implementation effort of the research paper titled ["Differentially Private Wireless Federated Learning With Integrated Sensing and Communication"](https://ieeexplore.ieee.org/document/10948161?denied=), published in the ["IEEE Transactions on Wireless Communications"](IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693). The primary objective is to gain a deeper understanding of the methodologies and frameworks proposed in the paper, particularly in the context of integrating differential privacy mechanisms within wireless federated learning systems enhanced by joint sensing and communication.
+This work is a reproduction and implementation effort of the research paper titled ["Differentially Private Wireless Federated Learning With Integrated Sensing and Communication"](https://ieeexplore.ieee.org/document/10948161?denied=), published in the ["IEEE Transactions on Wireless Communications"](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693/). The primary objective is to gain a deeper understanding of the methodologies and frameworks proposed in the paper, particularly in the context of integrating differential privacy mechanisms within wireless federated learning systems enhanced by joint sensing and communication.
 
 As the original publication does not provide source code, this implementation is developed independently for educational and research purposes only. All efforts are directed toward faithfully replicating the core algorithms and validating the theoretical claims made in the paper.
 
