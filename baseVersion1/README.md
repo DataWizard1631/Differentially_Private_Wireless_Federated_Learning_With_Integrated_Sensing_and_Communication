@@ -4,8 +4,8 @@
 Implement a simple synchronous FL baseline (no differential privacy, no sensing/communication modeling). At the end of this level, user should be able to run multiple “clients” training locally and a central “server” aggregating model weights every fixed number of local epochs.
 
 ## Concepts :
-<b>Federated Learning basics:</b> client‐server architecture, local updates, global aggregation, partial vs.full participation.
-<b>Synchronous FedAvg algorithm </b>
+<b>Federated Learning basics:</b> client‐server architecture, local updates, global aggregation, partial vs.full participation.<br>
+<b>Synchronous FedAvg algorithm </b><br>
 <b>PyTorch (or TensorFlow/Keras):</b> building simple neural networks, optimizer loops, loss functions.
 
 ## Deliverables :
