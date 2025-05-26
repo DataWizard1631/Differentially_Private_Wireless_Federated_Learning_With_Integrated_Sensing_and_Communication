@@ -71,7 +71,7 @@ With 10 local epochs, clients learn better representations before aggregation, m
 
 ---
 
-## Other Notes
+## Other Notes:
 
 - **Privacy-Utility Tradeoff:** Lower ε (stricter privacy) leads to more noise and reduced accuracy; higher ε improves accuracy but weakens privacy.
 - **Communication Efficiency:** FL reduces communication by sending only model updates instead of raw data.
@@ -80,6 +80,6 @@ With 10 local epochs, clients learn better representations before aggregation, m
 
 ---
 
-## Author
+## Author of Blog:
 
 [Deep Patel](https://www.linkedin.com/in/deeppateldw1611/)
