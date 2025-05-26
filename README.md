@@ -12,3 +12,4 @@ This paper develops a novel framework for differ- entially private (DP) wireless
 
 ### Versions : 
 #### [baseVersion1](https://github.com/DataWizard1631/Differentially_Private_Wireless_Federated_Learning_With_Integrated_Sensing_and_Communication/tree/main/baseVersion1)
+#### [baseVersion2](https://github.com/DataWizard1631/Differentially_Private_Wireless_Federated_Learning_With_Integrated_Sensing_and_Communication/tree/main/baseVersion2)
