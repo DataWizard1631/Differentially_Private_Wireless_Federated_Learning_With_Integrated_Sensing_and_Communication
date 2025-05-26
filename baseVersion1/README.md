@@ -15,15 +15,22 @@ Each client runs A local SGD steps (or epochs) on its local data, then sends its
 
 Logging: track train/test accuracy and loss on a held‐out global test set. Plot convergence vs. global round.
 
-## Results : 
-<div style={dispaly:flex}>
-    <img src="./output.png"></img>
-    <img src="./output1.png"></img>
+## Results
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; ">
+
+  <img src="./output.png" alt="Output 0" width="500" height ="320"/>
+  <img src="./output1.png" alt="Output 1" width="500" height ="320"/>
+
 </div>
-<div style={dispaly:flex}>
-    <img src="./output2.png"></img>
-    <img src="./output3.png"></img>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+
+  <img src="./output2.png" alt="Output 2" width="500" height ="320"/>
+  <img src="./output3.png" alt="Output 3" width="500" height ="320"/>
+
 </div>
+
 
 ### Where Federated Learning Shines :
 
