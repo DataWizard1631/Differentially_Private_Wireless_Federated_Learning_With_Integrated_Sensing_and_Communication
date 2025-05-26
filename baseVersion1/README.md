@@ -41,8 +41,7 @@ Logging: track train/test accuracy and loss on a held‐out global test set. Plo
 | **Scalability**    | server bottleneck with many users | clients train in parallel    |
 | **Regulatory Fit** | ✗ may violate data‐sovereignty    | ✓ data remains local         |
 
-#### in sending raw 47 MB MNIST train set per epoch in a naïve centralized “send‐data‐to‐server” scheme
-
+#### Verses in sending raw 47 MB MNIST train set per epoch in a naïve centralized “send‐data‐to‐server” scheme. It is not a good idea.
 
 ## Author of Blog :
 [Deep Patel](https://www.linkedin.com/in/deeppateldw1611/)
