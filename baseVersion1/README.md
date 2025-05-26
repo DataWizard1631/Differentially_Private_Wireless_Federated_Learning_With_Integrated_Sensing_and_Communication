@@ -15,5 +15,27 @@ Each client runs A local SGD steps (or epochs) on its local data, then sends its
 
 Logging: track train/test accuracy and loss on a held‐out global test set. Plot convergence vs. global round.
 
+## Results : 
+<div style={dispaly:flex}>
+    <img src="./output.png"></img>
+    <img src="./output1.png"></img>
+</div>
+<div style={dispaly:flex}>
+    <img src="./output2.png"></img>
+    <img src="./output3.png"></img>
+</div>
+
+### Where Federated Learning Shines :
+
+| Property           | Centralized                       | Federated                    |
+| ------------------ | --------------------------------- | ---------------------------- |
+| **Privacy**        | ✗ raw data sent                   | ✓ no raw data leaves clients |
+| **Communication**  | ⇨ raw data (\~47 MB/epoch)        | ⇨ model (\~1 MB/round)     |
+| **Scalability**    | server bottleneck with many users | clients train in parallel    |
+| **Regulatory Fit** | ✗ may violate data‐sovereignty    | ✓ data remains local         |
+
+#### in sending raw 47 MB MNIST train set per epoch in a naïve centralized “send‐data‐to‐server” scheme
+
+
 ## Author of Blog :
 [Deep Patel](https://www.linkedin.com/in/deeppateldw1611/)
