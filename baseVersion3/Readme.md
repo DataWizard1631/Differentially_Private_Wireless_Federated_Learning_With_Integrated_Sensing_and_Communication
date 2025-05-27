@@ -45,7 +45,7 @@ For now, ignore SINR, power, modulation, etc. Just treat aₘ^τ as a design cho
 <table>
   <tr>
     <td width="65%" >
-      <img src="baseVersion3/results/output2.png" alt="Test Loss vs. Global Rounds" width="100%" height="320">
+      <img src="./results/output2.png" alt="Test Loss vs. Global Rounds" width="100%" height="320">
     </td>
     <td width="55%" valign="top" >
       <b>Test Loss vs. Global Rounds</b><br>
@@ -60,7 +60,7 @@ For now, ignore SINR, power, modulation, etc. Just treat aₘ^τ as a design cho
 <table>
   <tr>
     <td width="65%">
-      <img src="baseVersion3/results/output1.png" alt="Test Accuracy vs. Global Rounds" width="100%" height="320">
+      <img src="./results/output1.png" alt="Test Accuracy vs. Global Rounds" width="100%" height="320">
     </td>
     <td width="55%" valign="top">
       <b>Test Accuracy vs. Global Rounds</b><br>
@@ -75,7 +75,7 @@ For now, ignore SINR, power, modulation, etc. Just treat aₘ^τ as a design cho
 <table>
   <tr>
     <td width="65%">
-      <img src="baseVersion3/results/output.png" alt="Average Local Dataset Size vs. Round" width="100%">
+      <img src="./results/output.png" alt="Average Local Dataset Size vs. Round" width="100%">
     </td>
     <td width="55%" valign="top">
       <b>Average Local Dataset Size vs. Round</b><br>
