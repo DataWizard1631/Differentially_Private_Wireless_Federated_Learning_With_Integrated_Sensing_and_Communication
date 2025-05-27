@@ -21,16 +21,16 @@ This version implements a federated learning (FL) framework with differential pr
 
 <table>
   <tr>
-    <td><img src="Output With 1 Local Round/output.png" width="350"/></td>
-    <td><img src="Output With 1 Local Round/output1.png" width="350"/></td>
+    <td><img src="Output With 1 Local Round/output.png" width="100%" height="380"/></td>
+    <td><img src="Output With 1 Local Round/output1.png" width="100%" height="380"/></td>
   </tr>
   <tr>
     <td align="center">Test Loss vs. Global Rounds</td>
     <td align="center">Test Accuracy vs. Global Rounds</td>
   </tr>
   <tr>
-    <td><img src="Output With 1 Local Round/output2.png" width="350"/></td>
-    <td><img src="Output With 1 Local Round/output3.png" width="350"/></td>
+    <td><img src="Output With 1 Local Round/output2.png" width="100%" height="380"/></td>
+    <td><img src="Output With 1 Local Round/output3.png" width="100%" height="380"/></td>
   </tr>
   <tr>
     <td align="center">Final Test Loss vs. ε</td>
@@ -49,16 +49,16 @@ With only 1 local epoch, clients contribute less updated information per round, 
 
 <table>
   <tr>
-    <td><img src="Output With 10 loacl Round/output.png" width="400" /></td>
-    <td><img src="Output With 10 loacl Round/output1.png" width="400" /></td>
+    <td><img src="Output With 10 loacl Round/output.png" width="100%" height="380" /></td>
+    <td><img src="Output With 10 loacl Round/output1.png" width="100%" height="380" /></td>
   </tr>
   <tr>
     <td align="center">Test Loss vs. Global Rounds</td>
     <td align="center">Test Accuracy vs. Global Rounds</td>
   </tr>
   <tr>
-    <td><img src="Output With 10 loacl Round/output2.png" width="400" /></td>
-    <td><img src="Output With 10 loacl Round/output3.png" width="400" /></td>
+    <td><img src="Output With 10 loacl Round/output2.png" width="100%" height="380"/></td>
+    <td><img src="Output With 10 loacl Round/output3.png" width="100%" height="380"/></td>
   </tr>
   <tr>
     <td align="center">Final Test Loss vs. ε</td>
